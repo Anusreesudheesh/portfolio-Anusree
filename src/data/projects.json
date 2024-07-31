@@ -1,0 +1,46 @@
+[
+  {
+    "title": "School Management App(software training Institute)",
+    "description": "Role-based authentication,Integrated Material UI to enhance the user experience ,Designed features like attendance tracking,notifications,fees collection and mentor note-adding",
+    "skills": [
+      "Node Js",
+      "Express Js",
+      "Mongodb",
+      "React Js",
+      "HTML",
+      "CSS",
+      "Material UI"
+    ],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Book Store App",
+    "description": "API Calling,Reseting password through Email,Authorization,users can search book by category or name,Add review about book,Admin add publish and unpublish the book",
+    "skills": [
+      "Node Js",
+      "Express Js",
+      "Mongodb",
+      "React Js",
+      "HTML",
+      "CSS",
+      "Material UI"
+    ],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Quiz App",
+    "description": "In this quiz app we can add multiple questions and 4 answer choices for each questions,Responsive Design",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "",
+    "source": "https://github.com/Anusreesudheesh/Quiz-App.git"
+  },
+  {
+    "title": "Netflix Clone",
+    "description": "This project aimed to replicate the look and feel of the Amazon e-commerce platform,demonstrating attention to detail and visually appealing user Interfaces.",
+    "skills": ["HTML", "CSS"],
+    "demo": "",
+    "source": ""
+  }
+]
